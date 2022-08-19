@@ -58,6 +58,11 @@ p, li, table, pre, button {
   max-width: 23ch;
 }
 
+.byline {
+  font-size: 1.2rem;
+  opacity: .5;
+}
+
 .post-item-title {
   margin: var(--zero);
   font-weight: 500;
